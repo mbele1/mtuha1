@@ -1,7 +1,6 @@
 ﻿{
   "forms": [
-    {
-      "name": "OPD form",
+    {"name": "OPD form",
       "code": "OPD",
       "id": "OPD",
       "active": "TRUE",
@@ -784,3 +783,4 @@
       "test": ""
     }
   ]
+  }
