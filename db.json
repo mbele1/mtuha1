@@ -1,14 +1,39 @@
 ﻿{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "data": [
+        {
+            "name": "Kudra Limoi",
+            "age": 12,
+            "gender": "Female",
+            "behaviour": "Good at singing",
+            "id": 1
+        },
+        {
+            "name": "Jgeme Nola",
+            "age": 18,
+            "gender": "Male",
+            "behaviour": "Good at Running and Singing",
+            "id": 2
+        },
+        {
+            "name": "Jonathan Mlira",
+            "age": 14,
+            "gender": "Male",
+            "behaviour": "Good at Running and Singing and Writting",
+            "id": 3
+        },
+        {
+            "name": "Gerson Gervase",
+            "age": 14,
+            "gender": "Male",
+            "behaviour": "Good at  Maths, Physics and Chemistry",
+            "id": 4
+        },
+        {
+            "name": "4G Haouw ",
+            "age": 14,
+            "gender": "Female",
+            "behaviour": "Good at  Maths, Physics and Chemistry, and Singing",
+            "id": 5
+        }
+    ]
 }
