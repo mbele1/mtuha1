@@ -1,41 +1,12 @@
 ﻿{
 "forms":[
-{
-        "name": "OPD form",
-        "code": "OPD",
-        "id": "OPD",
-        "active": "TRUE",
-        "sortOrder": 1 
-    },
-	{
-        "name": "IPD form",
-        "code": "IPD",
-        "id": "IPD",
-        "active": "TRUE",
-        "sortOrder": 2 
-    }
+{ "name": "OPD form","code": "OPD","id": "OPD","active": "TRUE","sortOrder": 1  },
+{"name": "IPD form","code": "IPD","id": "IPD","active": "TRUE","sortOrder": 2  },
 ],
 "formDefinitions":
 [
-
-    {
-        "name": "Acute Flaccid Paralysis",
-        "code": "OPD1",
-        "id": "null",
-        "active": "TRUE",
-        "sortOrder": "1",
-        "formType": "OPD",
-        "test":""
-    },
-    {
-        "name": "Cholera",
-        "code": "OPD2",
-        "id": "null",
-        "active": "TRUE",
-        "sortOrder": "2",
-        "formType": "OPD",
-        "test":""
-    } 
+{ "name": "OPD form","code": "OPD","id": "OPD","active": "TRUE","sortOrder": 1  },
+{"name": "IPD form","code": "IPD","id": "IPD","active": "TRUE","sortOrder": 2  },
 ]
- 
+
 }
