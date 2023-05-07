@@ -1,17 +1,5 @@
 ﻿{
   "forms":[
-    {"name": "OPD form",
-      "code": "OPD",
-      "id": "OPD",
-      "active": "TRUE",
-      "sortOrder": "1"
-    },
-    {
-      "name": "IPD form",
-      "code": "IPD",
-      "id": "IPD",
-      "active": "TRUE",
-      "sortOrder": "2"
-    }
+    {"name": "OPD form","code": "OPD", "id": "OPD","active": "TRUE", "sortOrder": "1"}    
   ] 
   }
