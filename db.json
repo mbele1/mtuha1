@@ -35,38 +35,7 @@
         "sortOrder": "2",
         "formType": "OPD",
         "test":""
-    },
-    {
-        "name": "Dysentery",
-        "code": "OPD3",
-        "id": "null",
-        "active": "TRUE",
-        "sortOrder": "3",
-        "formType": "OPD",
-        "test":""
-    },
-    {
-        "name": "Measles",
-        "code": "OPD4",
-        "id": "null",
-        "active": "TRUE",
-        "sortOrder": "4",
-        "formType": "OPD",
-        "test":""
     } 
 ]
-,
-"formDefinitionElements":
-[
-
-    {
-        "name": "Acute Flaccid Paralysis",
-        "code": "A01",
-        "id": "null",
-        "active": "TRUE",
-        "sortOrder": "1",
-        "formType": "OPD",
-        "test":""
-    }
-	]
+ 
 }
